@@ -116,6 +116,16 @@ kill <pid>                              # Kill a process by pid
 ```
 
 
+## User
+
+---
+
+```bash
+sudo adduser <username>     # Create a new user
+```
+
+
+
 ## Permissions
 
 ---
